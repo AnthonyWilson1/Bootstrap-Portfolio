@@ -1,0 +1,126 @@
+.one {
+float: left;
+}
+.two {
+padding-left: 5%;
+}
+.row1 {
+border-bottom: solid 1px #777777;
+}
+.img2 {
+width: 80%;
+float: left;
+margin-left: 3%;
+}
+body {
+background-image: url("../images/light-veneer.png");
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+color: #777777;
+}
+p {
+text-align: center;
+}
+.back2 {
+background-color: #fff;
+}
+.img1 {
+width: 35%;
+float: left;
+margin-right: 3%;
+padding-top: 2%;
+}
+.p2 {
+text-align: left;
+}
+.col-9 {
+background-color: #fff;
+}
+.margin{
+margin-left: 2%;
+}
+.pad{
+padding-top: 1%;
+padding-bottom: 2%;
+border-top: solid 1px;
+}
+.bord {
+border: #777777 solid 1px;
+}
+.bord1 {
+border-top: #777777 solid 1px;
+border-left: #777777 solid 1px;
+border-right: #777777 solid 1px;
+}
+.bord2 {
+border-bottom: #777777 solid 1px;
+border-left: #777777 solid 1px;
+border-right: #777777 solid 1px;
+}
+.navbar-light
+.navbar-brand
+{
+color: #777777;
+font: bold;
+}
+h2 {
+padding-top: 3%;
+border-bottom: solid 1px;
+}
+.footer {
+background-color: #fff;
+padding: 1%;
+border-top: solid 1px;
+}
+.p1 {
+border-bottom: solid 1px; 
+padding-top: 2%;  
+background-color: #fff;
+margin-bottom: 0;
+padding-bottom: 2%;
+border-top: solid 1px;
+border-left: solid 1px;
+border-right: solid 1px;
+}
+.form {
+padding-left: 3%;
+background-color: #fff;
+margin-top: 0%;
+padding-top: 8%;
+padding-bottom: 10%;
+border-left: solid 1px;
+border-right: solid 1px;
+border-bottom: solid 1px;
+}
+.container-fluid {
+padding-top: 8%;  
+}
+.col-md-3 {
+width: 25%
+}
+.col-sm-4 {
+width: 60%;
+}
+.col-lg-5 {
+    padding-left: 10%;
+}
+.col-sm-9 {
+    margin-bottom: 5%;
+}
+.pic {
+    width: 33%;
+}
+.col-sm-3 {
+    padding-left: 6%;
+}
+.top {
+    padding-top: 1%;
+}
+.pol {
+    width: 33%;
+    margin-left: 30%
+}
+.p3 {
+    text-align: center;
+    background-color: #777777;
+    color: #fff;
+}
